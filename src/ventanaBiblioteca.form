@@ -5,7 +5,9 @@
     <constraints>
       <xy x="20" y="20" width="845" height="644"/>
     </constraints>
-    <properties/>
+    <properties>
+      <background color="-3836530"/>
+    </properties>
     <border type="none"/>
     <children>
       <component id="d1453" class="javax.swing.JButton" binding="agregarImagenButton" default-binding="true">
