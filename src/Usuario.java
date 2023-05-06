@@ -1,10 +1,6 @@
-import java.util.ArrayList;
-
 public class Usuario {
     private String Nombre;
     private String categorias;
-
-    private ArrayList<Categorias> Categorias;
 
     public Usuario(String nombre) {
         Nombre = nombre;

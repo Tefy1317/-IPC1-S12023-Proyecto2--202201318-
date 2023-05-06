@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="IPC1_S12023-Proyecto2-202201318-:jar2">
-    <output-path>$PROJECT_DIR$/out/artifacts/IPC1_S12023_Proyecto2_202201318__jar2</output-path>
-    <root id="archive" name="IPC1_S12023-Proyecto2-202201318-.jar">
-      <element id="module-output" name="IPC1_S12023-Proyecto2-202201318-" />
-    </root>
-  </artifact>
-</component>
